@@ -1,0 +1,52 @@
+Structural Roles
+|-- Owner
+|   `-- AviraWynn
+|-- Administrators
+|   `-- SapphireBot
+|   `-- backpackdebbie
+|-- Moderators
+|-- Shiny Rock Holders
+|-- Subscribers
+|-- Verified Users
+`-- Unverified Users
+
+Identity Roles
+|-- Announcement Ping
+|-- Socials Ping
+`-- Pronouns
+
+Categories
+|-- Class A
+|   |-- Administrative
+|   |-- Informative
+|   `-- Moderator Zone
+|-- Class B
+|   `-- Shiny Rock Holders
+|-- Class C
+|   `-- Subscriber-Only
+`-- Class D
+    |-- Feer Shrine
+    |-- Stream Stuff
+    |-- General
+    `-- Media
+
+## Owner
+Can create, delete, view, and write in all categories.
+
+## Administrator
+Can create, delete, view, and write in all categories.
+
+## Moderator
+Can view and write in all categories.
+
+## Shiny Rock Holder
+Can view and write in Category Class B - D.
+
+## Subscriber
+Can view and write in Category Class C & D.
+
+## Verified User
+Can view and write in Category Class D only.
+
+## Unverified User
+Can view the Landing Zone and Rules channels only.
