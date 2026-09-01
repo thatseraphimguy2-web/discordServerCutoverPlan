@@ -1,4 +1,5 @@
 Administrative
+|-- Landing Zone
 |-- Server Guide
 |-- Channels & Roles
 `-- Rules
@@ -46,8 +47,12 @@ Media
 
 Subscriber-Only
 |-- Sub-Only Chat
-|-- Teasers/WIPs
 `-- Sub-Only VC
+
+Shiny Rock Holders
+|-- VIP-Only Chat
+|-- Teasers/WIPs
+`-- VIP-Only VC
 
 Moderator Zone
 |-- Moderator Chat
