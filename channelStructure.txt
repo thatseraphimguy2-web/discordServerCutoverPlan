@@ -1,0 +1,56 @@
+Administrative
+|-- Server Guide
+|-- Channels & Roles
+`-- Rules
+
+Informative
+|-- Announcements
+|-- Socials
+| |-- YouTube
+| |-- X
+| |-- Instagram
+| `-- BlueSky
+`-- Schedule
+|-- Schedule Posts
+`-- Live Announcements
+
+Feer Shrine
+|-- Fan Art
+|-- Stream Clips
+`-- Avi Memes
+
+Stream Stuff
+|-- Stream Chat
+|-- Game Suggestions
+|-- Emote Suggestions
+|-- Merch Suggestions
+|-- (Submission Channels for community-submitted items i.e. Fridge Review)
+`-- Self-Promotion
+
+General
+|-- Introductions
+|-- General Chat
+|-- Gaming Chat
+|-- Memes & Funnies
+|-- Flick-Only Channel
+`-- General VC
+
+Media
+|-- Chat Screenshots >:)
+|-- Pet Photos
+|-- Food
+| `-- Glizzy Shrine
+|-- IRL
+|-- Art
+`-- Music
+
+Subscriber-Only
+|-- Sub-Only Chat
+|-- Teasers/WIPs
+`-- Sub-Only VC
+
+Moderator Zone
+|-- Moderator Chat
+|-- Sticky Notes
+|-- Moderator VC
+`-- Audit Log
