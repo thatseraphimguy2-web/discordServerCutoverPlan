@@ -1,4 +1,5 @@
-//!commands add !pp $(eval
+!commands edit !pp $(eval u = '$(user)'.toLowerCase(); $(urlfetch json https://pastebin.com/raw/XXXXXXXX))
+
 const responses = [
 `Your pp is -2 inches long! Oh no! It's retreated inside. Are you cold? Or afraid?`,
 `Your pp is -1 inch long! Oh no! It's retreated inside. Are you cold? Or afraid?`,
@@ -19,4 +20,3 @@ const responses = [
 ];
 
 responses[Math.floor(Math.random() * responses.length)];
-//)
