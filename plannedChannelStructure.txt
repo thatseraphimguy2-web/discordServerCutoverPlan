@@ -1,61 +1,65 @@
-Administrative
-|-- Landing Zone
-|-- Server Guide
-|-- Channels & Roles
-`-- Rules
+Forest Gateway
+|-- 🍂|rules
+|-- 👋|welcome
+|-- 🍄|roles
+|-- 🍁|support-tickets
+`-- ❓|channel-info
 
-Informative
-|-- Announcements
-|-- Socials
-| |-- YouTube
-| |-- X
-| |-- Instagram
-| `-- BlueSky
-`-- Schedule
-|-- Schedule Posts
-`-- Live Announcements
+Scrying Pool
+|-- 📢|announcements
+|-- 🐦|socials-info
+|    |-- YouTube
+|    |-- X
+|    |-- Instagram
+|    `-- BlueSky
+`-- 📰|stream-schedule
+     |-- Schedule Posts
+     `-- Live Announcements
 
 Feer Shrine
-|-- Fan Art
-|-- Stream Clips
-`-- Avi Memes
+|-- 🦊🦌|avi-info
+|-- 🦊🦌🎨|fanart
+|-- 🦊🦌📼|stream-clips
+`-- 🦊🦌🤣|feer-memes
 
-Stream Stuff
-|-- Stream Chat
-|-- Game Suggestions
-|-- Emote Suggestions
-|-- Merch Suggestions
+Stream Tenders
+|-- 💭|stream-chat
+|-- suggestions
+|    |-- Merch Suggestions Megathread
+|    |-- Game Suggestions Megathread
+|    `-- Emote Suggestions Megathread
 |-- (Submission Channels for community-submitted items i.e. Fridge Review)
-`-- Self-Promotion
+`-- 🤝|self-promo
 
-General
-|-- Introductions
-|-- General Chat
-|-- Gaming Chat
-|-- Memes & Funnies
-|-- Flick-Only Channel
-`-- General VC
+Forest Floor
+|-- 👥|introductions
+|-- 💭|general-conversations
+|-- 🎮|gaming-chat
+|-- 🐸|memes
+|-- 🚫🦊🦌|feerless-zone-zero
+|-- 🔈|Open Field
+`-- 🔈|Open Clearing
 
-Media
-|-- Chat Screenshots >:)
-|-- Pet Photos
-|-- Food
-| `-- Glizzy Shrine
-|-- IRL
-|-- Art
-`-- Music
+Treetop Gallery
+|-- 📸|chat-screenshots
+|-- 😺|pets
+|-- 🍜|food
+|    `-- Glizzy Shrine
+|-- 🖼️|irl
+|-- 🎨|art
+`-- 🎶|music
 
-Subscriber-Only
-|-- Sub-Only Chat
-`-- Sub-Only VC
+Aviraholics Anonymous
+|--🍹|the-aaa
+|-- 💭|sub-only-chat
+|-- 🤫|teasers-and-wips
+`-- 🌳|Deep Forest
 
-Shiny Rock Holders
-|-- VIP-Only Chat
-|-- Teasers/WIPs
-`-- VIP-Only VC
-
-Moderator Zone
-|-- Moderator Chat
-|-- Sticky Notes
-|-- Moderator VC
-`-- Audit Log
+Forest Guardians
+|-- 🎯|serious-discussions
+|-- 🟨|sticky-notes
+|-- deleted-messages
+|-- 🍁|transcripts
+|-- 🐢|logs-carl-bot
+|-- 💎|logs-sapphire
+`-- 🚨|Fox Den
