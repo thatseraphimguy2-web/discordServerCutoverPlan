@@ -1,9 +1,9 @@
 Structural Roles
 |-- Owner
-|   `-- AviraWynn
+|    `-- AviraWynn
 |-- Administrators
-|   `-- SapphireBot
-|   `-- backpackdebbie
+|    `-- SapphireBot
+|    `-- backpackdebbie
 |-- Moderators
 |-- Shiny Rock Holders
 |-- Subscribers
@@ -17,21 +17,21 @@ Identity Roles
 
 Categories
 |-- Class A
-|   |-- Administrative
-|   `-- Moderator Zone
+|    |-- Administrative
+|    `-- Moderator Zone
 |-- Class B
-|   `-- Shiny Rock Holders
+|    `-- Shiny Rock Holders
 |-- Class C
-|   `-- Subscriber-Only
+|    `-- Subscriber-Only
 |-- Class D
-|   |-- Feer Shrine
-|   |-- Stream Stuff
-|   |-- General
-|   `-- Media
+|    |-- Feer Shrine
+|    |-- Stream Stuff
+|    |-- General
+|    `-- Media
 `-- Class E
-    |-- Landing Zone
-    |-- Informative
-    `-- Rules
+     |-- Landing Zone
+     |-- Informative
+     `-- Rules
 
 ## Owner
 Can create, delete, view, and write in all categories. Only mildly tsun.
