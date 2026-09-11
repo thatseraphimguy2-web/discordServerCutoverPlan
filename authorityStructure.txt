@@ -13,40 +13,43 @@ Structural Roles
 Identity Roles
 |-- Announcement Ping
 |-- Socials Ping
-`-- Pronouns
+`-- Pronouns (optional)
 
 Categories
 |-- Class A
 |   |-- Administrative
-|   |-- Informative
 |   `-- Moderator Zone
 |-- Class B
 |   `-- Shiny Rock Holders
 |-- Class C
 |   `-- Subscriber-Only
-`-- Class D
-    |-- Feer Shrine
-    |-- Stream Stuff
-    |-- General
-    `-- Media
+|-- Class D
+|   |-- Feer Shrine
+|   |-- Stream Stuff
+|   |-- General
+|   `-- Media
+`-- Class E
+    |-- Landing Zone
+    |-- Informative
+    `-- Rules
 
 ## Owner
-Can create, delete, view, and write in all categories.
+Can create, delete, view, and write in all categories. Only mildly tsun.
 
 ## Administrator
-Can create, delete, view, and write in all categories.
+Can create, delete, view, and write in all categories. Can be removed by the Owner if required.
 
 ## Moderator
-Can view and write in all categories.
+Can view and write in all categories. Beautiful, kind, good-smelling people.
 
 ## Shiny Rock Holder
-Can view and write in Category Class B - D.
+Can view and write in Category Class B - D. Can view Class E content, but cannot edit it.
 
 ## Subscriber
-Can view and write in Category Class C & D.
+Can view and write in Category Class C & D. Can view Class E content, but cannot edit it.
 
 ## Verified User
-Can view and write in Category Class D only.
+Can view and write in Category Class D only. Can view Class E content, but cannot edit it.
 
 ## Unverified User
-Can view the Landing Zone and Rules channels only.
+Can view Class E only. Peasants.
