@@ -1,51 +1,51 @@
 Structural Roles
 |-- Owner
-|   `-- Da Feer
+|    `-- Da Feer
 |-- Administrators
-|   |-- Sapphire
-|   |-- Ticket Tool
-|   `-- Chaos Mod
+|    |-- Sapphire
+|    |-- Ticket Tool
+|    `-- Chaos Mod
 |-- Moderators
-|   |-- Creative Mod
-|   |-- Sticky Note Mod
-|   |-- Special Ops Mod
-|   `-- Mods
+|    |-- Creative Mod
+|    |-- Sticky Note Mod
+|    |-- Special Ops Mod
+|    `-- Mods
 |-- VIPs
-|   `-- Shiny Rock Holders
+|    `-- Shiny Rock Holders
 |-- Subscribers
-|   `-- Aviraholics
+|    `--  Aviraholics
 |-- Verified Users
-|   `-- Flick Click
+|    `-- Flick Click
 |-- Bot Role
-|   `-- Little Helpers
+|    `-- Little Helpers
 `-- Unverified Users
-    |-- Guest
-    `-- @everyone
+     |--  Guest
+     `-- @everyone
 
 Vanity Roles
 |-- Discord Advocate
-|   `-- backpackdebbie
+|    `-- backpackdebbie
 |-- Creative Lead
-|   `-- Lily
+|    `-- Lily
 |-- Model Founder - Art 1.0
-|   |-- OxideNova95
-|   `-- TulipVT
+|    |-- OxideNova95
+|    `-- TulipVT
 |-- Model Founder - Rig 1.0
-|   |-- Black_Wing
-|   |-- OxideNova95
-|   |-- prinnyvinny
-|   |-- ShaeScythe
-|   `-- TulipVT
+|    |-- Black_Wing
+|    |-- OxideNova95
+|    |-- prinnyvinny
+|    |-- ShaeScythe
+|    `-- TulipVT
 |-- Top Gifters (1st uncap subathon)
-|   |-- Black_Wing
-|   |-- Noch1011
-|   `-- Papa Claytonimo Maximiliono
+|    |-- Black_Wing
+|    |-- Noch1011
+|    `-- Papa Claytonimo Maximiliono
 |-- Top Gifter (Shovathon)
-|   |-- Darkboard
-|   `-- Towtruck
+|    |-- Darkboard
+|    `-- Towtruck
 `-- Top Bit Cheerer (Shovathon)
-    |-- Im hungie
-    `-- Ribbage
+     |-- Im hungie
+     `-- Ribbage
 
 Ping Roles
 |-- Announcement Ping
