@@ -5,8 +5,8 @@ assigned to what roles, and how category/channel permissions are set to allow/di
 Sapphire bot is currently used to handle some automation; these processes must also be documented.
 
 ### To do:
-  - Document roles
-  - Document channels
+  - ~~Document roles~~
+  - ~~Document channels~~
   - Document Sapphire Bot setup
   - Build roles permissions matrix
   - Build channel permissions matrix
@@ -16,7 +16,7 @@ During this phase, the roles will be amended to ensure each one has the correct 
 There will be a core set of structural roles, plus additional vanity roles. Server bots (apart from Sapphire) have their own role.
 
 ### To do:
-  - Build Roles tree
+  - ~~Build Roles tree~~
   - Modify Role permissions as required
   - Trim excess Roles as required
 
@@ -25,7 +25,7 @@ During this phase, the channels will be sorted into their respective categories.
 category they are placed into, and each category will need to have their permissions set correctly based on the roles able to access them.
 
 ### To do:
-  - Build Channels/Categories tree
+  - ~~Build Channels/Categories tree~~
   - Create Categories
   - Move existing Channels to their respective Category as required
   - Add Channels to Categories as required
