@@ -7,8 +7,8 @@ Sapphire bot is currently used to handle some automation; these processes must a
 ### To do:
   - ~~Document roles~~
   - ~~Document channels~~
-  - Document Sapphire Bot setup
-  - Build roles permissions matrix
+  - ~~Document Sapphire Bot setup~~
+  - ~~Build roles permissions matrix~~
   - Build channel permissions matrix
 
 ## Phase 2 - Role Changes
